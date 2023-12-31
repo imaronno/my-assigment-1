@@ -1,0 +1,136 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.Top-Section {
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    height: 480px;
+    padding-top: 80px;
+}
+
+.Lorem {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 900;
+    margin: 120px;
+    color: white;
+}
+
+.Help {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgba(80, 150, 255, 0.87);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    margin: 40%;
+}
+
+.tk-background {
+    background-color: rgb(245, 245, 245);
+    border-radius: 5px;
+    padding: 30px 30px;
+}
+
+.tk-background-red {
+    background-color: rgb(255, 238, 238);
+    border-radius: 5px;
+    padding: 30px 30px;
+    color: red;
+    border: solid;
+    border-color: red;
+}
+
+.section {
+    padding: 30px 0px;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.amount-width {
+    width: 20%;
+    padding: 5%;
+}
+
+.link-button-2 {
+    text-decoration: none;
+    background-color: rgba(80, 150, 255, 0.87);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.icon-width {
+    width: 30%;
+    padding: 6%;
+}
+
+.icon-part-1 {
+    background-color: rgb(237, 245, 246)
+}
+
+.icon-part-2 {
+    background-color: rgb(255, 238, 238);
+}
+
+.lives-donation img {
+    width: 100%;
+}
+
+.icon-part-3 {
+    background-color: rgb(255, 244, 214);
+}
+
+.lives-donation img {
+    width: 100%;
+}
+
+.lives-donation {
+    width: 50%;
+    padding: 5%;
+}
+
+.updates-area {
+    padding: 100px 80px;
+
+}
+
+.footer-area {
+    background-color: rgb(11, 13, 23);
+    padding: 10px;
+}
+
+.mail-box {
+    background-color: rgb(255, 244, 214);
+    padding: 60px 250px;
+    border-radius: 5px;
+
+}
+
+.visuallyhidden {
+    background-color: rgb(92, 80, 255);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.footer-area {
+    background-color: rgb(11, 13, 23);
+    padding: 10px;
+}
+
+.footer-decoration {
+    color: rgb(89, 117, 255);
+
+}
