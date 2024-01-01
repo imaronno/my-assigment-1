@@ -27,20 +27,21 @@ body {
     text-decoration: none;
     background-color: rgba(80, 150, 255, 0.87);
     padding: 10px 40px;
-    border-radius: 5px;
     color: white;
-    font-weight: 700;
+    font-weight: 400;
+    margin: 43%;
+    border-radius: 10px;
 }
 
 .tk-background {
     background-color: rgb(245, 245, 245);
-    border-radius: 5px;
+    border-radius: 9px;
     padding: 30px 30px;
 }
 
 .tk-background-red {
     background-color: rgb(255, 238, 238);
-    border-radius: 5px;
+    border-radius: 9px;
     padding: 30px 30px;
     color: red;
     border: solid;
@@ -57,7 +58,12 @@ body {
 
 .amount-width {
     width: 20%;
-    padding: 5%;
+    padding: 6%;
+}
+
+.other-amount {
+    padding: 10px;
+    border-radius: 9px;
 }
 
 .link-button-2 {
@@ -67,6 +73,7 @@ body {
     border-radius: 5px;
     color: white;
     font-weight: 700;
+    border-radius: 9px;
 }
 
 .icon-width {
@@ -75,11 +82,11 @@ body {
 }
 
 .icon-part-1 {
-    background-color: rgb(237, 245, 246)
+    background-color: rgba(100, 172, 181, 0.199)
 }
 
 .icon-part-2 {
-    background-color: rgba(195, 63, 63, 0.251);
+    background-color: rgba(189, 89, 89, 0.234);
 }
 
 .lives-donation img {
@@ -87,17 +94,19 @@ body {
 }
 
 .icon-part-3 {
-    background-color: rgba(145, 201, 90, 0.218);
+    background-color: rgba(71, 71, 170, 0.221);
 }
 
 .lives-donation img {
     width: 100%;
+
 }
 
 .lives-donation {
     width: 50%;
     padding: 5%;
     text-align: right;
+
 }
 
 .updates-area {
@@ -114,7 +123,7 @@ body {
     background-color: rgb(255, 244, 214);
     padding: 60px 250px;
     border-radius: 5px;
-
+    text-align: center;
 }
 
 .visuallyhidden {
@@ -148,6 +157,39 @@ body {
     margin: 40%;
 }
 
+.our-donate-plan {
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.link-button-4 {
+    text-decoration: none;
+    background-color: rgba(80, 150, 255, 0.87);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 400;
+    border-radius: 9px;
+}
+
 #our-donate-plan {
-    margin: 100px;
+    font-size: 20px;
+}
+
+.donate-now {
+    text-align: center;
+}
+
+.donate-top {
+    text-align: center;
+    font-size: 14px;
+}
+
+#donate-top {
+    font-size: 20px;
+}
+
+.update-div {
+    text-align: center;
+
 }
