@@ -30,7 +30,6 @@ body {
     border-radius: 5px;
     color: white;
     font-weight: 700;
-    margin: 40%;
 }
 
 .tk-background {
@@ -80,7 +79,7 @@ body {
 }
 
 .icon-part-2 {
-    background-color: rgb(255, 238, 238);
+    background-color: rgba(195, 63, 63, 0.251);
 }
 
 .lives-donation img {
@@ -88,7 +87,7 @@ body {
 }
 
 .icon-part-3 {
-    background-color: rgb(255, 244, 214);
+    background-color: rgba(145, 201, 90, 0.218);
 }
 
 .lives-donation img {
@@ -138,4 +137,17 @@ body {
 
 .inline {
     display: block;
+}
+
+.flex {
+    display: flex;
+    gap: 40px;
+}
+
+#top {
+    margin: 40%;
+}
+
+#our-donate-plan {
+    margin: 100px;
 }
