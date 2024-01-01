@@ -35,13 +35,13 @@ body {
 
 .tk-background {
     background-color: rgb(245, 245, 245);
-    border-radius: 9px;
+    border-radius: 10px;
     padding: 30px 30px;
 }
 
 .tk-background-red {
     background-color: rgba(221, 220, 220, 0.897);
-    border-radius: 9px;
+    border-radius: 10px;
     padding: 30px 30px;
     color: red;
     border: solid;
@@ -63,14 +63,14 @@ body {
 
 .other-amount {
     padding: 10px;
-    border-radius: 9px;
+    border-radius: 10px;
 }
 
 .link-button-2 {
     text-decoration: none;
     background-color: tomato;
     padding: 10px 40px;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
     font-weight: 700;
     border-radius: 9px;
@@ -123,14 +123,14 @@ body {
 .mail-box {
     background-color: rgb(255, 244, 214);
     padding: 60px 250px;
-    border-radius: 5px;
+    border-radius: 10px;
     text-align: center;
 }
 
 .visuallyhidden {
     background-color: rgba(92, 80, 255, 0.11);
     padding: 10px 40px;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
     font-weight: 700;
     text-align: center;
@@ -169,11 +169,11 @@ body {
 
 .link-button-4 {
     text-decoration: none;
-    background-color: rgba(80, 150, 255, 0.168);
+    background-color: tomato;
     padding: 10px 40px;
     color: white;
     font-weight: 400;
-    border-radius: 9px;
+    border-radius: 10px;
 }
 
 #our-donate-plan {
@@ -198,6 +198,9 @@ body {
 }
 
 .middle {
+    background-color: rgb(255, 244, 214);
+    padding: 60px 250px;
+    border-radius: 10px;
     text-align: center;
 }
 
@@ -208,10 +211,10 @@ body {
 
 .btn-subscribe {
     padding: 10px 10px;
-    border-radius: 14px;
+    border-radius: 10px;
     color: white;
 
-    background-color: blue;
+    background-color: tomato;
 }
 
 .footer-inner {
