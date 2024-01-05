@@ -23,15 +23,7 @@ body {
     color: white;
 }
 
-.link-button {
-    text-decoration: none;
-    background-color: tomato;
-    padding: 10px 40px;
-    color: white;
-    font-weight: 400;
-    margin: 43%;
-    border-radius: 10px;
-}
+.link-button {}
 
 .tk-background {
     background-color: rgb(245, 245, 245);
